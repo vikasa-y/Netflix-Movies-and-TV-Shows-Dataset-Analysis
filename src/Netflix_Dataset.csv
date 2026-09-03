@@ -1,6 +1,6 @@
 show_id,type,title,director,cast,country,date_added,release_year,rating,duration
-s1,Movie,Dick Johnson Is Dead,Kirsten Johnson,,United States,"September 25, 2021",2020,PG-13,90 min
-s2,TV Show,Blood & Water,,"Ama Qamata, Khosi Ngema, Gail Mabalane, Thabang Molaba, Dillon Windvogel, Natasha Thahane, Arno Greeff, Xolile Tshabalala, Getmore Sithole, Cindy Mahlangu, Ryle De Morny, Greteli Fincham, Sello Maake Ka-Ncube, Odwa Gwanya, Mekaila Mathys, Sandi Schultz, Duane Williams, Shamilla Miller, Patrick Mofokeng",South Africa,"September 24, 2021",2021,TV-MA,2 Seasons
+s1,Movie,Dick Johnson Is Dead,Kirsten Johnson,,country,"September 25, 2021",2020,PG-13,90 min
+s2,TV Show,Blood & Water,,"Ama Qamata, Khosi Ngema, Gail Mabalane, Thabang Molaba, Dillon Windvogel, Natasha Thahane, Arno Greeff, Xolile Tshabalala, Getmore Sithole, Cindy Mahlangu, Ryle De Morny, Greteli Fincham, Sello Maake Ka-Ncube, Odwa Gwanya, Mekaila Mathys, Sandi Schultz, Duane Williams, Shamilla Miller, Patrick Mofokeng",country,"September 24, 2021",2021,TV-MA,2 Seasons
 s3,TV Show,Ganglands,Julien Leclercq,"Sami Bouajila, Tracy Gotoas, Samuel Jouy, Nabiha Akkari, Sofia Lesaffre, Salim Kechiouche, Noureddine Farihi, Geert Van Rampelberg, Bakary Diombera",,"September 24, 2021",2021,TV-MA,1 Season
 s4,TV Show,Jailbirds New Orleans,,,,"September 24, 2021",2021,TV-MA,1 Season
 s5,TV Show,Kota Factory,,"Mayur More, Jitendra Kumar, Ranjan Raj, Alam Khan, Ahsaas Channa, Revathi Pillai, Urvi Singh, Arun Kumar",India,"September 24, 2021",2021,TV-MA,2 Seasons
@@ -3961,7 +3961,7 @@ s3959,TV Show,Ultraman,,"Ryohei Kimura, Takuya Eguchi, Megumi Han, Hideyuki Tana
 s3960,Movie,Mercy Black,Owen Egerton,"Daniella Pineda, Elle LaMont, Janeane Garofalo, Miles Emmons, Lee Eddy, Austin Amelio, Elke Boucher-Depew, Dylan Gage, Troy Anthony Hogan, Jamy Lentz",United States,"March 31, 2019",2019,TV-14,88 min
 s3961,Movie,The Burial of Kojo,"Sam ""Blitz"" Bazawule","Cynthia Dankwa, Ama K. Abebrese, Joseph Otsiman, Kobina Amissah Sam, Mamley Djangmah, Henry Adofo, Anima Misa, Brian Angels","Ghana, United States","March 31, 2019",2018,TV-14,81 min
 s3962,TV Show,Pablo,,"Jake Williamson, Rachael Dickson, Sumita Majumdar, Michael White, Tony Finnegan, Scott Mulligan, Rosie King",United Kingdom,"March 30, 2019",2017,TV-Y,1 Season
-s3963,Movie,15 August,Swapnaneel Jayakar,"Rahul Pethe, Mrunmayee Deshpande, Adinath Kothare, Vaibhav Mangale, Jaywant Wadkar, Satish Pulekar, Naina Apte, Uday Tikekar",India,"March 29, 2019",2019,TV-14,124 min
+s3963,Movie,15-Aug,Swapnaneel Jayakar,"Rahul Pethe, Mrunmayee Deshpande, Adinath Kothare, Vaibhav Mangale, Jaywant Wadkar, Satish Pulekar, Naina Apte, Uday Tikekar",India,"March 29, 2019",2019,TV-14,124 min
 s3964,Movie,Bayonet,Kyzza Terrazas,"Luis Gerardo Méndez, Brontis Jodorowsky, Joonas Saartamo, Laura Birn, Ilkka Koivula, Ville Virtanen, Raúl Villegas, Miriam Balderas, Ximena Guzmán","Mexico, Finland","March 29, 2019",2019,TV-MA,102 min
 s3965,TV Show,Osmosis,,"Agathe Bonitzer, Hugo Becker, Gaël Kamilindi, Manoël Dupont, Stéphane Pitti, Luna Silva, Yuming Hey, Suzanne Rault-Balet, Philypa Phoenix, Lena Lapres, Waly Dia, Aurélia Petit, Lionel Lingelser, Fabien Ducommun",France,"March 29, 2019",2019,TV-MA,1 Season
 s3966,TV Show,Santa Clarita Diet,,"Drew Barrymore, Timothy Olyphant, Liv Hewson, Skyler Gisondo",United States,"March 29, 2019",2019,TV-MA,3 Seasons
@@ -3995,7 +3995,7 @@ s3993,Movie,The Third Party,Jason Paul Laxamana,"Sam Milby, Angel Locsin, Zanjoe
 s3994,Movie,The Unmarried Wife,Maryo J. De los Reyes,"Angelica Panganiban, Dingdong Dantes, Paulo Avelino, Maricar Reyes, Denise Laurel, Dimples Romana, Justin Cuyugan, Mart Escudero, Pamu Pamorada, Lei Andre Navarro, Irma Adlawan",Philippines,"March 21, 2019",2016,TV-MA,130 min
 s3995,Movie,Vince and Kath and James,Theodore Boborol,"Julia Barretto, Joshua Garcia, Ronnie Alonte, Maris Racal, Ina Raymundo, Shamaine Centenera, Ana Abad-Santos, Jeric Raval, Allan Paule, Manuel Chua",Philippines,"March 21, 2019",2016,TV-PG,115 min
 s3996,Movie,Alexis Viera: A Story of Surviving,Luis Ara,Alexis Viera,Uruguay,"March 20, 2019",2019,TV-MA,69 min
-s3997,TV Show,February 9,,"Shahd El Yaseen, Shaila Sabt, Hala, Hanadi Al-Kandari, Salma Salem, Ibrahim Al-Harbi, Mahmoud Boushahri, Yousef Al Balushi, Ghorour, Abdullah Al-bloshi",,"March 20, 2019",2018,TV-14,1 Season
+s3997,TV Show,Feb-09,,"Shahd El Yaseen, Shaila Sabt, Hala, Hanadi Al-Kandari, Salma Salem, Ibrahim Al-Harbi, Mahmoud Boushahri, Yousef Al Balushi, Ghorour, Abdullah Al-bloshi",,"March 20, 2019",2018,TV-14,1 Season
 s3998,Movie,Imago,"Karan Shivajirao Chavan, Vikram Tanajirao Patil","Aishwarya Ghaydar, Amol Deshmukh, Adarsh Kurne, Vishwas Kamble, Neha Awati, Amaraja Patil, Rinkle Chopde, Shreyas Gurav",India,"March 20, 2019",2018,TV-PG,97 min
 s3999,TV Show,My Husband Won't Fit,,"Natsumi Ishibashi, Aoi Nakamura",Japan,"March 20, 2019",2019,TV-MA,1 Season
 s4000,Movie,Amy Schumer Growing,Amy Schumer,Amy Schumer,United States,"March 19, 2019",2019,TV-MA,61 min
@@ -4521,7 +4521,7 @@ s4519,TV Show,The Haunting of Hill House,,"Michiel Huisman, Carla Gugino, Timoth
 s4520,Movie,The Kindergarten Teacher,Sara Colangelo,"Maggie Gyllenhaal, Parker Sevak, Gael García Bernal, Michael Chernus, Anna Baryshnikov, Rosa Salazar, Ajay Naidu","United States, Israel, United Kingdom, Canada","October 12, 2018",2018,R,97 min
 s4521,TV Show,Ordinary Heroes,,"Giorgio Tirabassi, Marco Bocci, Cristiana Capotondi, Greta Scarano, Michela Cescon, Diane Fleri, Carlo Calderone, Claudio Gioè, Romina Mondello, Orlando Cinque, Luigi Maria Burruano, Riccardo Scamarcio, Lorenza Indovina, Ivana Lotito, Pierfrancesco Poggi, Marco Leonardi, Anna Ferruzzo, Peppino Mazzotta, Giorgio Marchesi",,"October 11, 2018",2018,TV-MA,1 Season
 s4522,TV Show,Salt Fat Acid Heat,,Samin Nosrat,,"October 11, 2018",2018,TV-PG,1 Season
-s4523,Movie,22 July,Paul Greengrass,"Anders Danielsen Lie, Jon Øigarden, Jonas Strand Gravli, Ola G. Furuseth, Maria Bock, Thorbjørn Harr, Jaden Smith","Norway, Iceland, United States","October 10, 2018",2018,R,144 min
+s4523,Movie,22-Jul,Paul Greengrass,"Anders Danielsen Lie, Jon Øigarden, Jonas Strand Gravli, Ola G. Furuseth, Maria Bock, Thorbjørn Harr, Jaden Smith","Norway, Iceland, United States","October 10, 2018",2018,R,144 min
 s4524,TV Show,Blood Pact,,"Guilherme Fontes, Ravel Cabral, Jonathan Haagensen, André Ramiro, Adriano Garib, Mel Lisboa, Cristina Lago",Brazil,"October 10, 2018",2018,TV-MA,1 Season
 s4525,Movie,Tales From the Hood 2,"Rusty Cundieff, Darin Scott","Keith David, Bryan Batt, Alexandria Deberry, Bill Martin Williams, Martin Bats Bradford, Kendrick Cross, Jasmine Akakpo, Kedrick Brown",United States,"October 10, 2018",2018,R,110 min
 s4526,Movie,Mo Amer: The Vagabond,Stan Lathan,Mo Amer,United States,"October 9, 2018",2018,TV-MA,57 min
@@ -5655,7 +5655,7 @@ s5653,Movie,Mr. Pig,Diego Luna,"Danny Glover, Maya Rudolph, José María Yazpik,
 s5654,TV Show,My Runway,,"Ji-yeon Park, Dong-ho Kang, Chul-woong Kang, Bo-hyun Ahn, Hak Jin, Se-jin Park, Kisum",South Korea,"December 30, 2016",2016,TV-14,1 Season
 s5655,TV Show,AJIN: Demi-Human,,"Mamoru Miyano, Yoshimasa Hosoya, Jun Fukuyama, Hochu Otsuka, Daisuke Hirakawa, Takahiro Sakurai, Mikako Komatsu, Hiroyuki Kinoshita, Aya Suzaki",Japan,"December 27, 2016",2016,TV-MA,2 Seasons
 s5656,TV Show,Chasing Cameron,,"Cameron Dallas, Aaron Carpenter, Taylor Caniff, Willie Jones, Trey Schafer, Bart Bordelon, Blake Gray",United States,"December 27, 2016",2016,TV-14,1 Season
-s5657,Movie,7:19,Jorge Michel Grau,"Demián Bichir, Héctor Bonilla, Oscar Serrano, Azalia Ortiz, Octavio Michel, Carmen Beato",Mexico,"December 23, 2016",2016,TV-MA,93 min
+s5657,Movie,07:19,Jorge Michel Grau,"Demián Bichir, Héctor Bonilla, Oscar Serrano, Azalia Ortiz, Octavio Michel, Carmen Beato",Mexico,"December 23, 2016",2016,TV-MA,93 min
 s5658,Movie,Garfunkel and Oates: Trying to be Special,"Riki Lindhome, Jeremy Konner","Riki Lindhome, Kate Micucci, Anthony Jeselnik, Steve Agee",United States,"December 23, 2016",2016,TV-MA,62 min
 s5659,TV Show,Sense8,,"Tuppence Middleton, Brian J. Smith, Doona Bae, Max Riemelt, Naveen Andrews, Daryl Hannah, Freema Agyeman, Terrence Mann, Adam Shapiro, Max Mauff, Alfonso Herrera, Eréndira Ibarra, Aml Ameen, Jamie Clayton, Tina Desae, Miguel Ángel Silvestre, Toby Onwumere, Joe Pantoliano",United States,"December 23, 2016",2018,TV-MA,2 Seasons
 s5660,Movie,A Christmas Special: Miraculous: Tales of Ladybug & Cat Noir,Thomas Astruc,"Cristina Vee, Bryce Papenbrook, Keith Silverstein, Mela Lee, Max Mittelman, Carrie Keranen, Stephanie Sheh, Selah Victor, Ben Diskin, Erin Fitzgerald, Grant George","France, South Korea, Japan","December 20, 2016",2016,TV-Y7,22 min
